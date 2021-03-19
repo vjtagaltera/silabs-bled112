@@ -1,0 +1,4 @@
+
+Set the min/max connection interval to the smallest, and slave latency to 0. 
+Page 72 and 81. 
+
